@@ -1,0 +1,42 @@
+{
+  "todos": [
+    {
+      "id": "2",
+      "title": "리액트 컴포넌트 만들기",
+      "writer": "user00",
+      "complete": true,
+      "dueDate": "2025-03-28"
+    },
+    {
+      "id": "3",
+      "title": "JSON Server 익히기",
+      "writer": "user00",
+      "complete": false,
+      "dueDate": "2025-03-30"
+    },
+    {
+      "id": "f0cd",
+      "title": "포스트맨으로 만든 할 일",
+      "writer": "user00",
+      "dueDate": "2025-04-01"
+    },
+    {
+      "id": "e546",
+      "title": "포스트맨으로 만든 할 일",
+      "writer": "user00",
+      "dueDate": "2025-04-01"
+    },
+    {
+      "id": "7d18",
+      "title": "dd포스트맨으로 만든 할 일",
+      "writer": "user00",
+      "dueDate": "2025-04-01"
+    },
+    {
+      "id": "1daf",
+      "title": "ddd포스트맨으로 만든 할 일",
+      "writer": "user00",
+      "dueDate": "2025-04-01"
+    }
+  ]
+}
